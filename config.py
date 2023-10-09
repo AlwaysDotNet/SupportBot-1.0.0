@@ -1,1 +1,3 @@
-vmtkbg trjnntr bhtrntrnytn yny
+print('AA')
+print('BBB')
+print('CC')
